@@ -1,0 +1,90 @@
+.move-card-bg {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.top-sec {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.from {
+  font-family: 'roboto';
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+.p {
+  margin-left: 25px;
+}
+.addres {
+  font-family: 'roboto';
+  font-size: 16px;
+  color: gray;
+  margin: 0px;
+  padding: 0px;
+}
+.right {
+  color: #fc7005;
+  font-size: 25px;
+  font-weight: bold;
+}
+.right-card {
+  box-shadow: 1px 1px 1px 1px rgba(137, 137, 138, 0.13);
+  border: none;
+  border-radius: 30px;
+  height: 50px;
+  width: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.card-icon {
+  color: #fc7005;
+  font-size: 25px;
+  margin-right: 8px;
+  margin-top: 10px;
+}
+.card-tiles {
+  font-size: 18px;
+  font-family: 'roboto';
+}
+.line {
+  border: 1px solid gray;
+  width: 100%;
+  margin-bottom: 50px;
+}
+.request {
+  color: red;
+  font-size: 18px;
+}
+.btn {
+  border: 1px solid coral;
+  color: #fc7005;
+  font-size: 15px;
+  background-color: transparent;
+  padding: 12px;
+  border-radius: 10px;
+  margin-top: 15px;
+}
+.btn1 {
+  border: 1px solid coral;
+  color: white;
+  font-size: 15px;
+  background-color: #fc7005;
+  padding: 12px;
+  border-radius: 10px;
+  margin-top: 15px;
+}
+.war {
+  font-family: 'roboto';
+  font-size: 15px;
+  color: gray;
+}
+.s {
+  color: black;
+}
